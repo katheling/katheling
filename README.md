@@ -32,8 +32,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/katheling-leite/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Katheling Leite's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:katheling.leite24@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Katheling Leite's Email"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/katheling-leite/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=FF00FE" alt="Katheling Leite's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:katheling.leite24@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF00FE" alt="Katheling Leite's Email"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5512991153941"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
