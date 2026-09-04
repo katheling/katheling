@@ -11,12 +11,12 @@
 
 ## 📌 About Me
 - 🚀 A young IT trainee eager to develop my skills and build a career in data analysis!
-- 🧠 As a National Chess Master, I bring to the world of technology a highly analytical mindset, sharp logical reasoning and a passion for solving complex problems.♟️
+- ♟️As a National Chess Master, I bring to the world of technology a highly analytical mindset, sharp logical reasoning and a passion for solving complex problems.♟️
 - ✨Constantly developing:🗄️ Databases: SQL and SQL Server🐍 Programming and data: Python (Pandas) and Java.
 - 🤝 In addition to my programming skills, I bring with me the experience of having volunteered at GAPC (Support Group for People with Cancer), as I believe that technology gains even greater value when it has a positive impact on people’s lives. ❤️
 
 
-## 🧠 My Focus Areas
+## My Focus Areas
 - Data Analytics.
 
 
