@@ -50,11 +50,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:katheling.leite24@gmail.com">
+<a href="mailto:katheling.leite24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23A93226?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://wa.me/5512991153941">
-    <img src="https://img.shields.io/badge/WhatsApp-%2300BFA5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-%232EA44F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
