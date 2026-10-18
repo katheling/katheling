@@ -26,7 +26,7 @@
 
 ### Projetos em Destaque
 
-#### 💳 [Modelagem Preditiva de Risco de Crédito](https://github.com/katheling/analise-risco-credito)
+#### 📊 [Modelagem Preditiva de Risco de Crédito](https://github.com/katheling/analise-risco-credito)
 > Tratamento de dados e desenvolvimento de modelo preditivo para análise de crédito.
 * **Tecnologias:** Python, Pandas, Scikit-Learn e Power BI.
 * **Destaques:** Imputação de dados por mediana, One-Hot Encoding, modelo *Random Forest* (93.34% de acurácia), extração de *Feature Importance* e integração com dashboard no Power BI.
@@ -35,11 +35,6 @@
 > Automação do processamento e visualização de dados públicos de trânsito.
 * **Tecnologias:** Python, Pandas e Matplotlib.
 * **Destaques:** Tratamento de dados temporais e relatórios gráficos padronizados.
-
-#### 🖥️ [Calculadora e Menu Iterativo em Assembly MIPS](https://github.com/katheling/Projeto-em-Assembly)
-> Projeto de lógica de programação de baixo nível e arquitetura de computadores.
-* **Tecnologias:** Assembly MIPS.
-* **Destaques:** Controle de fluxo, tratamento de exceções (divisão por zero) e manipulação de registradores.
 
 ---
 
