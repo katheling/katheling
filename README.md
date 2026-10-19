@@ -26,7 +26,7 @@
 
 ### Projetos em Destaque
 
-#### 📊 [Modelagem Preditiva de Risco de Crédito](https://github.com/katheling/analise-risco-credito)
+#### 📊 [Modelagem Preditiva de Risco de Crédito](https://github.com/katheling/credit-risk-analytics)
 > Tratamento de dados e desenvolvimento de modelo preditivo para análise de crédito.
 * **Tecnologias:** Python, Pandas, Scikit-Learn e Power BI.
 * **Destaques:** Imputação de dados por mediana, One-Hot Encoding, modelo *Random Forest* (93.34% de acurácia), extração de *Feature Importance* e integração com dashboard no Power BI.
