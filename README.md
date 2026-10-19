@@ -29,7 +29,7 @@
 #### 📊 [Modelagem Preditiva de Risco de Crédito](https://github.com/katheling/credit-risk-analytics)
 > Tratamento de dados e desenvolvimento de modelo preditivo para análise de crédito.
 * **Tecnologias:** Python, Pandas, Scikit-Learn e Power BI.
-* **Destaques:** Imputação de dados por mediana, One-Hot Encoding, modelo *Random Forest* (93.34% de acurácia), extração de *Feature Importance* e integração com dashboard no Power BI.
+* **Destaques:** Imputação de dados por mediana, modelo *Random Forest* (93.34% de acurácia), extração de *Feature Importance* e integração com dashboard no Power BI.
 
 #### 📊 [Análise de Sinistros de Trânsito — DETRAN-SP](https://github.com/katheling/detran-data-analysis)
 > Automação do processamento e visualização de dados públicos de trânsito.
